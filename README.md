@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# Hey there, Drew here
+I’m currently working on Governed Agentic RAG System<br>  I’m looking to collaborate on multiple things<br> I’m looking for help with any personal projects <br> I’m currently learning about Agentic AI<br>
 
 
 # 💻 Tech Stack:
